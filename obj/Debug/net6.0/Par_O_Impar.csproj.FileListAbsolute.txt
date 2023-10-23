@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\bin\Debug\net6.0\Par_O_Impar.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\bin\Debug\net6.0\Par_O_Impar.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\bin\Debug\net6.0\Par_O_Impar.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\bin\Debug\net6.0\Par_O_Impar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\bin\Debug\net6.0\Par_O_Impar.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\refint\Par_O_Impar.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\Par_O_Impar.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Par_O_Impar\obj\Debug\net6.0\ref\Par_O_Impar.dll

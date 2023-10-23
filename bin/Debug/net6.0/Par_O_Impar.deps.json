@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Par_O_Impar/1.0.0": {
+        "runtime": {
+          "Par_O_Impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Par_O_Impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
